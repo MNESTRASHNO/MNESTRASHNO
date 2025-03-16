@@ -1,1 +1,1 @@
-![Static Badge](https://tryhackme-badges.s3.amazonaws.com/MN3STRASHN0.png)
+Hi! I am Alexander, I study at RTU MIREA, sometimes I program, sometimes I administer something, run scanners in search of vulnerabilities, break labs and exploit vulnerabilities. Anyway, I'm learning something new. And you have visited my git, where I post my crafts for myself or the university.
